@@ -5,5 +5,7 @@
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=CC6699)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=68a063)
 
+--
+
 <!--
 **pmnord/pmnord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
